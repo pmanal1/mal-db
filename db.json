@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Paulo Manalo",
+      "username": "pmanal1",
+      "password": "MockPassword123!",
+      "anime_list": [
+        {
+          "name": "Attack on Titan",
+          "studio": "Wit Studio",
+          "status": "Completed",
+          "episodes": "25",
+          "score": "10"
+        },
+        {
+          "name": "My Hero Academia",
+          "studio": "Bones",
+          "status": "Watching",
+          "episodes": "25",
+          "score": "-1"
+        },
+        {
+          "name": "Naruto",
+          "studio": "Studio Pierrot",
+          "status": "Plan to Watch",
+          "episodes": "220",
+          "score": "-1"
+        }
+      ]
+    }
+  ]
+}
