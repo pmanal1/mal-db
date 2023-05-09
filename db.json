@@ -10,22 +10,73 @@
           "name": "Attack on Titan",
           "studio": "Wit Studio",
           "status": "Completed",
-          "episodes": "25",
-          "score": "10"
+          "episodes": 25,
+          "episodes_watched": 25,
+          "score": 10
         },
         {
           "name": "My Hero Academia",
           "studio": "Bones",
           "status": "Watching",
-          "episodes": "25",
-          "score": "-1"
+          "episodes": 25,
+          "episodes_watched": 13,
+          "score": -1
         },
         {
           "name": "Naruto",
           "studio": "Studio Pierrot",
           "status": "Plan to Watch",
-          "episodes": "220",
-          "score": "-1"
+          "episodes": 220,
+          "episodes_watched": 0,
+          "score": -1
+        },
+        {
+          "name": "Your Name",
+          "studio": "CoMix Wave Films",
+          "status": "Completed",
+          "episodes": 1,
+          "episodes_watched": 1,
+          "score": 9
+        },
+        {
+          "name": "One Piece",
+          "studio": "Toei Animation",
+          "status": "Watching",
+          "episodes": 1000,
+          "episodes_watched": 700,
+          "score": 10
+        },
+        {
+          "name": "Oshi no Ko",
+          "studio": "Doga Kobo",
+          "status": "Plan to Watch",
+          "episodes": 11,
+          "episodes_watched": 0,
+          "score": -1
+        },
+        {
+          "name": "Spy x Family",
+          "studio": "Wit Studio, CloverWorks",
+          "status": "Completed",
+          "episodes": 12,
+          "episodes_watched": 12,
+          "score": 6
+        },
+        {
+          "name": "Kimetsu no Yaiba",
+          "studio": "ufotable",
+          "status": "Completed",
+          "episodes": 26,
+          "episodes_watched": 26,
+          "score": 5
+        },
+        {
+          "name": "One Punch Man",
+          "studio": "Madhouse",
+          "status": "Complete",
+          "episodes": 12,
+          "episodes_watched": 12,
+          "score": 4
         }
       ]
     }
