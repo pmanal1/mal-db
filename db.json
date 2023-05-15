@@ -7,76 +7,76 @@
       "password": "MockPassword123!",
       "anime_list": [
         {
-          "name": "Attack on Titan",
-          "studio": "Wit Studio",
-          "status": "Completed",
           "episodes": 25,
           "episodes_watched": 25,
-          "score": 10
-        },
-        {
-          "name": "My Hero Academia",
-          "studio": "Bones",
-          "status": "Watching",
-          "episodes": 25,
-          "episodes_watched": 13,
-          "score": -1
-        },
-        {
-          "name": "Naruto",
-          "studio": "Studio Pierrot",
-          "status": "Plan to Watch",
-          "episodes": 220,
-          "episodes_watched": 0,
-          "score": -1
-        },
-        {
-          "name": "Your Name",
-          "studio": "CoMix Wave Films",
+          "imageUrl": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+          "name": "Shingeki no Kyojin",
+          "score": 10,
           "status": "Completed",
+          "studio": "Wit Studio"
+        },
+        {
+          "episodes": 13,
+          "episodes_watched": 0,
+          "imageUrl": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+          "name": "Boku no Hero Academia",
+          "score": 8,
+          "status": "Completed",
+          "studio": "Bones"
+        },
+        {
+          "episodes": 220,
+          "episodes_watched": 220,
+          "imageUrl": "https://myanimelist.net/anime/20/Naruto",
+          "name": "Naruto",
+          "score": 9,
+          "status": "Completed",
+          "studio": "Pierrot"
+        },
+        {
           "episodes": 1,
-          "episodes_watched": 1,
-          "score": 9
-        },
-        {
-          "name": "One Piece",
-          "studio": "Toei Animation",
-          "status": "Watching",
-          "episodes": 1000,
-          "episodes_watched": 700,
-          "score": 10
-        },
-        {
-          "name": "Oshi no Ko",
-          "studio": "Doga Kobo",
+          "episodes_watched": 0,
+          "imageUrl": "https://myanimelist.net/anime/32281/Kimi_no_Na_wa",
+          "name": "Kimi no Na wa.",
+          "score": -1,
           "status": "Plan to Watch",
+          "studio": "CoMix Wave Films"
+        },
+        {
+          "episodes": 1016,
+          "episodes_watched": 700,
+          "imageUrl": "https://myanimelist.net/anime/21/One_Piece",
+          "name": "One Piece",
+          "score": -1,
+          "status": "Watching",
+          "studio": "Toei Animation"
+        },
+        {
           "episodes": 11,
           "episodes_watched": 0,
-          "score": -1
+          "imageUrl": "https://myanimelist.net/anime/52034/Oshi_no_Ko",
+          "name": "Oshi no Ko",
+          "score": -1,
+          "status": "Plan to Watch",
+          "studio": "Doga Kobo"
         },
         {
-          "name": "Spy x Family",
-          "studio": "Wit Studio, CloverWorks",
-          "status": "Completed",
-          "episodes": 12,
-          "episodes_watched": 12,
-          "score": 6
-        },
-        {
-          "name": "Kimetsu no Yaiba",
-          "studio": "ufotable",
-          "status": "Completed",
           "episodes": 26,
           "episodes_watched": 26,
-          "score": 5
+          "imageUrl": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
+          "name": "Kimetsu no Yaiba",
+          "score": 9,
+          "status": "Completed",
+          "studio": "ufotable"
         },
         {
-          "name": "One Punch Man",
-          "studio": "Madhouse",
-          "status": "Complete",
           "episodes": 12,
-          "episodes_watched": 12,
-          "score": 4
+          "episodes_watched": 0,
+          "imageUrl": "https://myanimelist.net/anime/30276/One_Punch_Man",
+          "name": "One Punch Man",
+          "score": -1,
+          "status": "Plan to Watch",
+          "studio": "Madhouse"
         }
       ]
     }
